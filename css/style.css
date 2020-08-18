@@ -1,0 +1,33 @@
+#main{
+    background-color: black!important;
+    width: 100vw;
+  }
+  #title{
+    background-color:white!important;
+    width: 100vw;
+  }
+  .myImg{
+    width: 80%;
+  }
+  .caption{
+   color:grey!important;
+  }
+  #tribute-info {
+    width: 650px;
+    margin: 0 auto;
+    
+  }
+  .tribute-info h3 {
+    text-align: center;
+    margin: 50% 0;
+  }
+  .ul {
+    list-style-type: disc;
+    list-style-position: outside;
+    border: 2px;
+    
+  }
+  .li {
+    display: inline-block;
+    margin-left: 5px;
+  }
